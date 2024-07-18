@@ -1,0 +1,54 @@
+{
+  "Products": [
+    {
+      "productName": "AC",
+      "brandName": "TATA",
+      "price": 65000,
+      "id": 1
+    },
+    {
+      "productName": "TV",
+      "brandName": "SONY",
+      "price": 50000,
+      "id": 2
+    },
+    {
+      "productName": "Laptop",
+      "brandName": "Acer",
+      "price": 45000,
+      "id": 3
+    },
+    {
+      "productName": "Mobile",
+      "brandName": "Moto",
+      "price": "25000",
+      "id": 4
+    }
+  ],
+  "Customers": [
+    {
+      "name": "Rahul Patil",
+      "email": "rp@gmail.com",
+      "address": "Surat,Gujarat",
+      "id": 1
+    },
+    {
+      "name": "Rahul Patil",
+      "email": "rp@gmail.com",
+      "address": "Surat,Gujarat",
+      "id": 2
+    },
+    {
+      "name": "Rahul Patil",
+      "email": "rp@gmail.com",
+      "address": "Surat,Gujarat",
+      "id": 3
+    },
+    {
+      "name": "Rahul Patil",
+      "email": "rp@gmail.com",
+      "address": "Surat,Gujarat",
+      "id": 4
+    }
+  ]
+}
